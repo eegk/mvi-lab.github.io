@@ -1,5 +1,5 @@
 # mvi-lab.github.io
-Project: Academic home page for my future lab.
+Project: Academic home page template for lab website.
 
 # Inspiration 
 https://coleoguy.github.io/index.html
